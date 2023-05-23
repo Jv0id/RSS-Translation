@@ -17,3 +17,5 @@
  - source004 [https://rsshub.app/scmp/91](https://rsshub.app/scmp/91) -> [SouthChinaMorningPost.xml](rss/SouthChinaMorningPost.xml)
  - source005 [https://rsshub.app/nikkei/news](https://rsshub.app/nikkei/news) -> [nikkei.xml](rss/nikkei.xml)
  - source006 [https://rsshub.app/sputniknews](https://rsshub.app/sputniknews) -> [sputniknews.xml](rss/sputniknews.xml)
+ - source007 [https://rsshub.app/nature/research/ng](https://rsshub.app/nature/research/ng) -> [nature.xml](rss/nature.xml)
+ - source008 [https://rsshub.app/science/current/science](https://rsshub.app/science/current/science) -> [science.xml](rss/science.xml)
