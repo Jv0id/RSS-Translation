@@ -11,11 +11,7 @@
 > 注意要保持## 已转换翻译源这行字在第12行，[source001]在第14行，代码更新订阅网页时是完全按行号更新的，如果行号不对可能会导致奇怪的问题。
 ## 已转换翻译源
 
- - source001 [https://rsshub.app/chicagotribune/nation-world](https://rsshub.app/chicagotribune/nation-world) -> [cbc.xml](rss/cbc.xml)
- - source002 [https://rsshub.app/cnbc/rss](https://rsshub.app/cnbc/rss) -> [cnbc.xml](rss/cnbc.xml)
- - source003 [https://rsshub.app/reuters/world](https://rsshub.app/reuters/world) -> [reuters.xml](rss/reuters.xml)
- - source004 [https://rsshub.app/scmp/91](https://rsshub.app/scmp/91) -> [SouthChinaMorningPost.xml](rss/SouthChinaMorningPost.xml)
- - source005 [https://rsshub.app/nikkei/news](https://rsshub.app/nikkei/news) -> [nikkei.xml](rss/nikkei.xml)
- - source006 [https://rsshub.app/sputniknews](https://rsshub.app/sputniknews) -> [sputniknews.xml](rss/sputniknews.xml)
- - source007 [https://rsshub.app/nature/research/ng](https://rsshub.app/nature/research/ng) -> [nature.xml](rss/nature.xml)
- - source008 [https://rsshub.app/science/current/science](https://rsshub.app/science/current/science) -> [science.xml](rss/science.xml)
+ - source001 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_rss.xml](rss/mckinsey_rss.xml)
+ - source002 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_iw_rss.xml](rss/mckinsey_iw_rss.xml)
+ - source003 [http://rss.acast.com/nature](http://rss.acast.com/nature) -> [nature_rss.xml](rss/nature_rss.xml)
+ - source004 [http://feeds.bbci.co.uk/news/rss.xml](http://feeds.bbci.co.uk/news/rss.xml) -> [BBC_Top_Stories_rss.xml](rss/BBC_Top_Stories_rss.xml)
