@@ -54,6 +54,9 @@ jobs:
         
           export TZ='Asia/Shanghai' # 更改时区
           git commit -m "Github RSS Translate Auto Builder at `date +"%Y-%m-%d %H:%M"`"  # 提交记录包含时间 跟上面更改时区配合
+
+          echo "======git pull===="
+          git pull --rebase origin main  # 拉取远程更新并使用变基合并
         
           echo "======git push===="
           git push
